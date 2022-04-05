@@ -12,4 +12,4 @@ To run this project install above mentioned Dependencies and and follow the inst
 ```
 git clone https://github.com/pradeepparit/Face-Detection
 ```
-2. Run `main.py` python file.
+2. Run `Face Detection.py` python file.
