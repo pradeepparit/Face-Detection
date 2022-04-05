@@ -1,5 +1,5 @@
 # Face-Detection
-Fce detection in python language uisng Open-CV with real-time camera that detects your face.<br>
+Face detection in python language uisng Open-CV with real-time camera that detects your face.<br>
 
 # Dependencies
 1. cv2
